@@ -4,15 +4,21 @@ body{
   color: black;
 }
 /*THE NFT DOCTOR LOGO GRADIENT*/
+
+
 h2{
-  background: -webkit-linear-gradient(#21D4FD, #B721FF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   font-family: 'Roboto', sans-serif;
 }
+
 p{
   font-family: brandon-grotesque,sans-serif;
   font-size:20px;
+}
+
+.gradient{
+  background: -webkit-linear-gradient(#21D4FD, #B721FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .code_nav_links{
