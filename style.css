@@ -8,9 +8,19 @@ h2{
   background: -webkit-linear-gradient(#21D4FD, #B721FF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-family: 'Roboto', sans-serif;;
+  font-family: 'Roboto', sans-serif;
 }
 p{
   font-family: brandon-grotesque,sans-serif;
   font-size:20px;
+}
+
+.code_nav_links{
+  font-size: 20px;
+}
+
+.code_link_list{
+  list-style-type: none;
+  font-size: 20px;
+  text-align: center;
 }
