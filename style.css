@@ -21,7 +21,7 @@ p{
   -webkit-text-fill-color: transparent;
 }
 
-.code_nav_links{
+.code_nav_links, .generative_links{
   font-size: 20px;
 }
 
@@ -29,4 +29,18 @@ p{
   list-style-type: none;
   font-size: 20px;
   text-align: center;
+}
+
+.line{
+  height: 2px;
+  background-color: black;
+}
+
+li{
+  font-size: 20px;
+}
+
+.images_30vw{
+  width: 30vw;
+  height: auto;
 }
